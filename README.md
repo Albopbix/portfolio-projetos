@@ -1,5 +1,6 @@
 # portfolio-projetos
 Repositório de projetos em Power BI
+Dashboard Currículo LinkedIn: https://bit.ly/3JIu116
 Dashboard Relatório Comercial: http://bit.ly/33tnbYq
 Dashboard OEE: https://bit.ly/3hDS8Bz
 Dashboard Gestão de Estoque: https://bit.ly/38P5l6n

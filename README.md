@@ -1,5 +1,6 @@
 # portfolio-projetos
 Repositório de projetos em Power BI
+Dashboard CARpinski Loja de Automóveis: https://bit.ly/3kPbO85
 Dashboard Currículo LinkedIn: https://bit.ly/3JIu116
 Dashboard Relatório Comercial: http://bit.ly/33tnbYq
 Dashboard OEE: https://bit.ly/3hDS8Bz
